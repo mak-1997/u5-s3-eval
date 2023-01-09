@@ -1,5 +1,5 @@
 import React from 'react';
-import {Box,Container,Image,Text,VStack, Button, Center,Divider,Link} from '@chakra-ui/react';
+import {Box,Container,Image,Text,VStack, Button, Center,Divider} from '@chakra-ui/react';
 
 
 const Home = ({gitData}) => {
